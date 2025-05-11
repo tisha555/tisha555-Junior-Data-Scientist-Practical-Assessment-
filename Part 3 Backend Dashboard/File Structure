@@ -1,0 +1,14 @@
+/backend
+  ├── /controllers
+  │    └── patientController.js
+  ├── /models
+  │    └── patientModel.js
+  ├── /routes
+  │    └── patientRoutes.js
+  ├── /config
+  │    └── db.js
+  ├── /middleware
+  │    └── auth.js
+  ├── /app.js
+  ├── /server.js
+  └── package.json

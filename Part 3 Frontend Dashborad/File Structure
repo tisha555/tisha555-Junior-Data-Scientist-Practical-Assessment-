@@ -1,0 +1,9 @@
+/frontend
+  ├── /components
+  │    ├── Dashboard.js
+  │    ├── PatientDetails.js
+  │    └── TrendChart.js
+  ├── /services
+  │    └── patientService.js
+  ├── /App.js
+  └── package.json
